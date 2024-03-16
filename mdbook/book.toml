@@ -1,0 +1,6 @@
+[book]
+authors = ["Wes Cravens"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CW Coders"
