@@ -88,7 +88,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="cw-coders.html" class="active">CW Coders</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.</strong> Resources</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="keyers.html"><strong aria-hidden="true">1.1.</strong> Keyers</a></li><li class="chapter-item expanded "><a href="learning.html"><strong aria-hidden="true">1.2.</strong> Learning</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Concepts</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">2.1.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="soft_key.html"><strong aria-hidden="true">2.2.</strong> Software Keyey</a></li><li class="chapter-item expanded "><a href="micro_key.html"><strong aria-hidden="true">2.3.</strong> Micro Keyey</a></li><li class="chapter-item expanded "><a href="abstractions.html"><strong aria-hidden="true">2.4.</strong> Abstractions of a Keyer</a></li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="cw-coders.html" class="active">CW Coders</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.</strong> Resources</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="keyers.html"><strong aria-hidden="true">1.1.</strong> Keyers</a></li><li class="chapter-item expanded "><a href="learning.html"><strong aria-hidden="true">1.2.</strong> Learning</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Concepts</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="abstractions.html"><strong aria-hidden="true">2.1.</strong> Abstractions of a Keyer</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">2.2.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="soft_key.html"><strong aria-hidden="true">2.3.</strong> Software Keyey</a></li><li class="chapter-item expanded "><a href="micro_key.html"><strong aria-hidden="true">2.4.</strong> Micro Keyey</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Contributing</div></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -182,9 +182,9 @@ Interrupted Continuous Wave and Morse Code Telegraphy.</em></p>
 engineering concepts covering all aspects of CW equipment and operation.</p>
 <p>The practice of CW operation is a deceptively complicated area that offers much
 to explore.  On the surface it seems rather straight foward.  Morse Code is
-perhaps the simplest method of electrically encoding and transmitting language
-and the single-frequency interrupted carrier-wave method of
-transmission significanly constrain the core requirements.</p>
+perhaps the simplest method of encoding language and the single-frequency
+interrupted carrier-wave is the simplest of rf transmission modes.
+Together these two simple concepts significanly constrain the core requirements.</p>
 <p>However, once solutions start to involve electronic keyers and microcontroller /
 computer software the domain rapidly expands to include many of the most
 interesting and challenging aspects of Human/Computer interaction.  The
@@ -195,10 +195,11 @@ resolution that our devices require.</p>
 <p>As with all aspects of engineering and highly-technical applications there is an
 abundance of different methodologies and solutions available.  This is
 especially true when it comes to learning methods.  In our group we respect all
-attemtps to solve the challenging problems we face.  We'll stive to catpure any
-relevant resources and approach our understanding and cataloging of all
-solutions without bias.  Innovation and experimentation is especially encouraged.</p>
-<p>Initial interersts and objectives include:</p>
+attemtps to solve the challenging problems we face.  We'll strive to catpure any
+relevant resources and approach our catalogging and discussion all existing and
+emerging solutions without bias.  Innovation and experimentation is especially
+encouraged.</p>
+<h2 id="initial-interersts-and-objectives-include"><a class="header" href="#initial-interersts-and-objectives-include">Initial interersts and objectives include:</a></h2>
 <ul>
 <li>
 <p>Learning</p>
@@ -309,22 +310,6 @@ solutions without bias.  Innovation and experimentation is especially encouraged
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 

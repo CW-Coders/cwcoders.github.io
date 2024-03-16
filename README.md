@@ -13,11 +13,7 @@ markserv index.html
 ## [mdbook](https://rust-lang.github.io/mdBook/)
 
 ```
-mdbook init --theme --force --ignore git --title "CW Coders" mdbook
-```
-
-```
 cd mdbook
 mdbook serve
+mdbook build -d ../reference
 ```
-

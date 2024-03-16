@@ -88,7 +88,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="cw-coders.html">CW Coders</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.</strong> Resources</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="keyers.html"><strong aria-hidden="true">1.1.</strong> Keyers</a></li><li class="chapter-item expanded "><a href="learning.html"><strong aria-hidden="true">1.2.</strong> Learning</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Concepts</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">2.1.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="soft_key.html"><strong aria-hidden="true">2.2.</strong> Software Keyey</a></li><li class="chapter-item expanded "><a href="micro_key.html" class="active"><strong aria-hidden="true">2.3.</strong> Micro Keyey</a></li><li class="chapter-item expanded "><a href="abstractions.html"><strong aria-hidden="true">2.4.</strong> Abstractions of a Keyer</a></li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="cw-coders.html">CW Coders</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.</strong> Resources</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="keyers.html"><strong aria-hidden="true">1.1.</strong> Keyers</a></li><li class="chapter-item expanded "><a href="learning.html"><strong aria-hidden="true">1.2.</strong> Learning</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Concepts</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="abstractions.html"><strong aria-hidden="true">2.1.</strong> Abstractions of a Keyer</a></li><li class="chapter-item expanded "><a href="hardware.html"><strong aria-hidden="true">2.2.</strong> Hardware</a></li><li class="chapter-item expanded "><a href="soft_key.html"><strong aria-hidden="true">2.3.</strong> Software Keyey</a></li><li class="chapter-item expanded "><a href="micro_key.html" class="active"><strong aria-hidden="true">2.4.</strong> Micro Keyey</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Contributing</div></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -183,9 +183,6 @@
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
-                            <a rel="next prefetch" href="abstractions.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                                <i class="fa fa-angle-right"></i>
-                            </a>
 
                         <div style="clear: both"></div>
                     </nav>
@@ -197,29 +194,10 @@
                         <i class="fa fa-angle-left"></i>
                     </a>
 
-                    <a rel="next prefetch" href="abstractions.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                        <i class="fa fa-angle-right"></i>
-                    </a>
             </nav>
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 
