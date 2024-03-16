@@ -11,9 +11,9 @@ engineering concepts covering all aspects of CW equipment and operation.
 
 The practice of CW operation is a deceptively complicated area that offers much
 to explore.  On the surface it seems rather straight foward.  Morse Code is
-perhaps the simplest method of electrically encoding and transmitting language
-and the single-frequency interrupted carrier-wave method of
-transmission significanly constrain the core requirements.
+perhaps the simplest method of encoding language and the single-frequency
+interrupted carrier-wave is the simplest of rf transmission modes.
+Together these two simple concepts significanly constrain the core requirements.
 
 However, once solutions start to involve electronic keyers and microcontroller /
 computer software the domain rapidly expands to include many of the most
@@ -26,11 +26,12 @@ resolution that our devices require.
 As with all aspects of engineering and highly-technical applications there is an
 abundance of different methodologies and solutions available.  This is
 especially true when it comes to learning methods.  In our group we respect all
-attemtps to solve the challenging problems we face.  We'll stive to catpure any
-relevant resources and approach our understanding and cataloging of all
-solutions without bias.  Innovation and experimentation is especially encouraged.
+attemtps to solve the challenging problems we face.  We'll strive to catpure any
+relevant resources and approach our catalogging and discussion all existing and
+emerging solutions without bias.  Innovation and experimentation is especially
+encouraged.
 
-Initial interersts and objectives include:
+## Initial interersts and objectives include:
 
 - Learning
   - Pedagogy of Learning Morse Code
