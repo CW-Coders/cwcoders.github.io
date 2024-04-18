@@ -83,3 +83,4 @@ encouraged.
     - Minimum Key response-time / Max WPM accuracy
     - Key to Tx response time
     - Jitter
+
