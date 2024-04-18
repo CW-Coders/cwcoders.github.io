@@ -10,4 +10,5 @@
   - [Hardware](hardware.md)
   - [Software Keyey](soft_key.md)
   - [Micro Keyey](micro_key.md)
+  - [CW Internet Relay](cw-internet-relay.md)
 - [Contributing]()
