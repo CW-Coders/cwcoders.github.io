@@ -4,6 +4,8 @@
 
 [Long Island CW Club](https://longislandcwclub.org/)
 
+[MorseBass](https://elfenworksproductions.com/morsebass.php)
+
 [Morse Code Ninja](https://morsecode.ninja/learn/index.html) [\[Github\]](https://github.com/zoglmannk/Morse-Code-Ninja)
 
 [Morse Code World](https://morsecode.world/)
