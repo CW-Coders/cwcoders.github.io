@@ -8,6 +8,11 @@ An open source Arduino based CW (Morse Code) keyer with a lot of features and fl
 
 Simple PIC Keyer from K3NG.
 
+[W8BH Morse Tutor](http://w8bh.net/) [Chez VE6LK Kits])[https://ve6lk.com/morse-tutor-kits/]
+
+Very similar to the Morserino below but with a farm more open ecosystem and clean source code.
+
+
 [Morserino](https://www.morserino.info/) [\[Github\]](https://github.com//oe1wkl/Morserino-32)
 
 A multi-functional Morse device (Keyer, Trainer, Decoder, even Transceiver etc.). It is ideal for learning and practicing Morse code, useful for everybody from beginner to high-speed pro. 
