@@ -8,6 +8,8 @@ An open source Arduino based CW (Morse Code) keyer with a lot of features and fl
 
 Simple PIC Keyer from K3NG.
 
+[Vail Adapter](https://github.com/nealey/vail-adapter)
+
 [W8BH Morse Tutor](http://w8bh.net/) [Chez VE6LK Kits](https://ve6lk.com/morse-tutor-kits/)
 
 Very similar to the Morserino below.
