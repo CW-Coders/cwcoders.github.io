@@ -10,11 +10,15 @@ Simple PIC Keyer from K3NG.
 
 [Vail Adapter](https://github.com/nealey/vail-adapter)
 
+[Halikey](https://electronics.halibut.com/product/halikey/)
+
+[CW Hotline](https://hamradio.solutions/cwhotline/)
+
+[MorsePaddle2USB](https://github.com/mgiugliano/MorsePaddle2USB)
+
 [W8BH Morse Tutor](http://w8bh.net/) [Chez VE6LK Kits](https://ve6lk.com/morse-tutor-kits/)
 
 Very similar to the Morserino below.
-
-[CW Hotline](https://hamradio.solutions/cwhotline/)
 
 [Morserino](https://www.morserino.info/) [\[Github\]](https://github.com//oe1wkl/Morserino-32)
 
