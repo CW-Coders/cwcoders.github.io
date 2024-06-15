@@ -24,6 +24,8 @@ Very similar to the Morserino below.
 
 A multi-functional Morse device (Keyer, Trainer, Decoder, even Transceiver etc.). It is ideal for learning and practicing Morse code, useful for everybody from beginner to high-speed pro. 
 
+[K1EL K16 Keyer IC](https://www.k1elsystems.com/K16IC.html)
+
 [PiCW - ykaw](https://github.com/ykaw/PiCW)
 
 A morse code keyer running on Raspberry Pi.
