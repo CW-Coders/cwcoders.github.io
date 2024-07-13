@@ -2,7 +2,7 @@
 
 [CW Academy](https://cwops.org/cw-academy/)
 
-[Long Island CW Club](https://longislandcwclub.org/)
+[Long Island CW Club](https://longislandcwclub.org/) [Dayton 2024 Forum Presentation](https://www.youtube.com/watch?v=pMtUCuNZoGo)
 
 [CW Innovations](https://cwinnovations.net/)
 
