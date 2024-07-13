@@ -76,3 +76,6 @@ Joystick becomes a CW key.
 [Digi-Keyer](https://www.digikey.com/en/blog/updating-the-original-digi-keyer)
 
 A reboot of the original DigiKeyer.
+
+[Electronic Straight Keyer - KA4QVK](https://k7mem.com/PDF_Files/HR-06-1983-Straight_Keyer.pdf) [K7MEM
+Notes](https://k7mem.com/Keyer_Straight_Key.html)
